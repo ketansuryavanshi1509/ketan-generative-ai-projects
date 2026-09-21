@@ -19,8 +19,7 @@ and other Generative AI technologies.
 | # | Project | Description | GitHub | Live Demo |
 |---|---|---|---|---|
 | 01 | Project Name | An AI-powered Q&A chatbot built with OpenAI, LangChain, and Streamlit, featuring configurable LLM responses, prompt engineering, and interactive conversational experiences. | [Repository](https://github.com/ketansuryavanshi1509/OpenAi_Chatbot/) | [Live Demo](https://openaichatbot-k38we6eucpma7ydqlndkhn.streamlit.app/) |
-| 02 | Project Name | Short description of the project | [Repository](#) | [Live Demo](#) |
-| 03 | Project Name | Short description of the project | [Repository](#) | [Live Demo](#) |
+> 🚀 **More projects are being added to this collection as I build, experiment, and deploy new Generative AI applications.**
 
 ---
 
